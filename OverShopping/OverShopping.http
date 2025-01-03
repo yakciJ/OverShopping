@@ -1,0 +1,6 @@
+@OverShopping_HostAddress = http://localhost:5159
+
+GET {{OverShopping_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
